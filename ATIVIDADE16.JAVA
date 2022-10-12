@@ -23,7 +23,7 @@ class Main {
     if(media > notafinal1){
         notafinal1 = media;
         
-      }else(media < notafinal2){
+      }else if(media < notafinal2){
         notafinal2 = media;
          
         }
